@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @policere
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning Unity3D
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me: t.me/nullx11b
+# ABOUT ME
+### I'm cybersecurity specialist. My original name is Artyom, I from Russia.
 
-<!---
-policere/policere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### My skills:
+- Reverse-engineering
+- Penetration testing 
+- Exploit developing
+
+| LANGUAGE | SKILL POINTS |
+| -------- | ------------ |
+| Python | 10 |
+| C# | 8 |
+| JavaScript | 5 |
+
+| POINTS | RANK |
+| ------ | ---- |
+| 9-10   | Complete understanding of the programming language |
+| 6-7    | Understanding, but under study |
+| 4-6    | I know the basics of the basics (Study or studied) |
+| 0-3    | I still don't understand what this is about |
+
+## MY TOP PROJECTS
+
+##### There is no projects on github... BUUUT! They will be here! After some time...
