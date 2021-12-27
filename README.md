@@ -5,6 +5,7 @@
 - Reverse-engineering
 - Penetration testing 
 - Exploit developing
+- And other...
 
 | LANGUAGE | SKILL POINTS |
 | -------- | ------------ |
