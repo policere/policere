@@ -1,5 +1,5 @@
 # ABOUT ME
-### I'm cybersecurity specialist. My original name is Artyom, I from Ukraine.
+### I'm cybersecurity specialist, I love cryptography and application programming. My original name is Artyom, I from Ukraine.
 
 ##### My skills:
 - Reverse-engineering
@@ -12,6 +12,7 @@
 | Python | 10 |
 | C# | 8 |
 | JavaScript | 5 |
+| C++ | 3 |
 
 | POINTS | RANK |
 | ------ | ---- |
