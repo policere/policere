@@ -1,5 +1,5 @@
 # ABOUT ME
-### I'm cybersecurity specialist. My original name is Artyom, I from Russia.
+### I'm cybersecurity specialist. My original name is Artyom, I from Ukraine.
 
 ##### My skills:
 - Reverse-engineering
